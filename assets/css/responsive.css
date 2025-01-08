@@ -5,3 +5,10 @@
     overflow-x: hidden;
   }
 }
+
+
+/* I am starting from here */
+
+@media (min-width: 786px) and (max-width: 1200px) {
+  
+}
